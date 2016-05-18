@@ -4,7 +4,8 @@ import pandas as pd
 
 """
 This is a script to merge the information of all the data files into a single
-file. All the .csv files in the import_folder will be processed.
+file. The main purpose is to generate a data file that can be used for further analysis.
+All the .csv files in the import_folder will be processed.
 The final data will be stored in preprocessed_data.csv
 Only communities will be stored that have data for all the initiative. If an
 entry is missing the community will be removed. This usually happens whenever 
