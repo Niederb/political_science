@@ -1,0 +1,15 @@
+swissvotes-integralerdatensatz.csv
+-----------------------------
+Année Politique Suisse / www.swissvotes.ch (2017). 
+Datensatz der eidgenössischen Volksabstimmungen ab 1848. 
+Bern: Institut für Politikwissenschaft, Version vom 16.05.2017
+http://www.swissvotes.ch/page/integralerdatensatz
+
+AbgegebeneStimmen.csv
+GueltigeStimmen.csv
+Ja.csv
+Nein.csv
+Stimmberechtigte.csv
+-----------------------------
+Bundesamt für Statistik, 
+https://www.pxweb.bfs.admin.ch/Selection.aspx?px_language=de&px_db=px-x-1703030000_100&px_tableid=px-x-1703030000_100\px-x-1703030000_100.px&px_type=PX
