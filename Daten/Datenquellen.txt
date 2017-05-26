@@ -13,3 +13,8 @@ Stimmberechtigte.csv
 -----------------------------
 Bundesamt für Statistik, 
 https://www.pxweb.bfs.admin.ch/Selection.aspx?px_language=de&px_db=px-x-1703030000_100&px_tableid=px-x-1703030000_100\px-x-1703030000_100.px&px_type=PX
+
+vermoegensverteilung.csv
+-----------------------------
+Eigene Zusammenstellung, basierend auf dem Bericht: Gesamtschweizerische Vermögensstatistik der natürlichen Personen 2013 der Eidgenössischen Steuerverwaltung
+https://www.estv.admin.ch/dam/estv/de/dokumente/allgemein/Dokumentation/Zahlen_fakten/Steuerstatistiken/vermoegensstatistik/00_vermoegensstatistik_vp13_d.pdf.download.pdf/00_vermoegensstatistik_vp13_d.pdf
