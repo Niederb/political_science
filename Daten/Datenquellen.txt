@@ -18,3 +18,8 @@ vermoegensverteilung.csv
 -----------------------------
 Eigene Zusammenstellung, basierend auf dem Bericht: Gesamtschweizerische Vermögensstatistik der natürlichen Personen 2013 der Eidgenössischen Steuerverwaltung
 https://www.estv.admin.ch/dam/estv/de/dokumente/allgemein/Dokumentation/Zahlen_fakten/Steuerstatistiken/vermoegensstatistik/00_vermoegensstatistik_vp13_d.pdf.download.pdf/00_vermoegensstatistik_vp13_d.pdf
+
+devisenanlagen-prozent-snb.csv
+-----------------------------
+Schweizerische Nationalbank
+https://data.snb.ch/de/topics/snb#!/cube/snbcurrp?fromDate=1997-Q1&toDate=2017-Q1&dimSel=D0(WDD),D1(USD,EUR,JPY,GBP,CAD,U,T)
