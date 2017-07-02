@@ -23,3 +23,13 @@ devisenanlagen-prozent-snb.csv
 -----------------------------
 Schweizerische Nationalbank
 https://data.snb.ch/de/topics/snb#!/cube/snbcurrp?fromDate=1997-Q1&toDate=2017-Q1&dimSel=D0(WDD),D1(USD,EUR,JPY,GBP,CAD,U,T)
+
+libor-interest-rates.csv
+-----------------------------
+Schweizerische Nationalbank
+https://data.snb.ch/de/topics/ziredev#!/cube/zimoma?fromDate=1972-05&toDate=2017-05&dimSel=D0(3M0,3M1,3M2,3M3,3M4)
+
+ch-obligationen-zins.csv
+-----------------------------
+Schweizerische Nationalbank
+https://data.snb.ch/de/topics/ziredev#!/cube/rendoblim?fromDate=1988-05&toDate=2017-05&dimSel=D0(1J,2J,3J,4J,5J,6J,7J,8J,9J,10J,20J,30J)
